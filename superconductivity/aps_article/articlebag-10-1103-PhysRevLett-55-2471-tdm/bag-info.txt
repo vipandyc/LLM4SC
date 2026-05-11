@@ -1,0 +1,1 @@
+Bag-Software-Agent: APS BagIt Ruby Gem v1.0.0

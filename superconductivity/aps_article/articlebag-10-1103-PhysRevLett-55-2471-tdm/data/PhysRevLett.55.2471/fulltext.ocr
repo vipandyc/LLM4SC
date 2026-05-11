@@ -1,0 +1,472 @@
+<page id="2471"/>
+PHYSICAL REVIEW LETTERS
+
+
+Unified Approach for Molecular Dynamics and Density-Functional Theory
+R. Car
+International Schoolfor Advanced Studies, Trieste, Italy
+and
+
+
+M. Parrinello
+Dipartimento di Fisica Teorica, Universitb di Trieste, Trieste, Italy, and
+International Schoolfor Advanced Studies, Trieste, Italy
+(Received 5 August 1985)
+We present a unified scheme that, by combining molecular dynamics and density-functional
+theory, profoundly extends the range of both concepts. Our approach extends molecular dynamics
+beyond the usual pair-potential approximation, thereby making possible the simulation of both co-
+valently bonded and metallic systems. In addition it permits the application of density-functional
+theory to much larger systems than previously feasible. The new technique is demonstrated by the
+calculation of some static and dynamic properties of crystalline silicon within a self-consistent pseu-
+dopotential framework.
+PACS numbers: 71.10. +x, 65.50. +m, 71.45.Gm
+
+
+Electronic structure calculations based on density-
+functional (DF) theoryl and finite-temperature com-
+puter simulations based on molecular dynamics2 (MD)
+have greatly contributed to our understanding of
+condensed-matter systems. MD calculations are able
+to predict equilibrium and nonequilibrium properties
+of condensed systems. However, in all practical appli-
+cations MD calculations have used empirical intera-
+tomic potentials. This approach, while appropriate for
+systems like the rare gases, may fail for covalent
+and/or metallic systems. Furthermore, these calcula-
+tions convey no information about electronic proper-
+ties. On the other hand, DF calculations have provid-
+ed an accurate, albeit approximate, description of the
+chemical bond in a large variety of systems,1 but are
+computationally very demanding. This has so far pre-
+cluded the application of DF schemes to the study of
+
+
+very large and/or disordered systems and to the com-
+putation of interatomic forces for MD simulations.
+We wish to present here a new method that is able
+to overcome the above difficulties and to achieve the
+following results: (i) compute ground-state electronic
+properties of large and/or disordered systems at the
+level of state-of-the-art electronic structure calcula-
+tions; (ii) perform ab initio MD simulations where the
+only assumptions are the validity of classical mechan-
+ics to describe ionic motion and the Born-
+Oppenheimer (BO) approximation to separate nuclear
+and electronic coordinates.
+Following Kohn and Sham3 (KS) we write the elec-
+tron density in terms of occupied single-particle ortho-
+normal orbitals: n(r)=Xi Ii(r)I2. A point of the
+BO potential energy surface is given by the minimum
+with respect to the q i(r) of the energy functional,
+
+
+E[{Hqi}, {Ra}, {a°}]=   if  d3r p,*(r)[- (k2/2m )V2I q,
+Here (RI} indicate the nuclear coordinates and {aJ} are   r
+all the possible external constraints imposed on the
+system, like the volume fl, the strain e,,,v etc. The
+functional U contains the internuclear Coulomb repul-
+sion and the effective electronic potential energy, in-
+cluding external nuclear, Hartree, and exchange and
+correlation contributions.
+In the conventional formulation, minimization of
+the energy functional [Eq. (1)1 with respect to the or-
+bitals 4,i, subject to the orthonormality constraint,
+leads to the self-consistent KS equations, i.e.,
+f-t2 4V2+  8()   i (r)= eiq1i(r).            (2)
+The solution of Eq. (2) involves repeated matrix diag-
+onalizations with a computational effort rapidly grow-
+
+
+(r) + U [n (r), [RI}, (aj ].
+
+
+(1)
+
+
+ing with the size of the problem. Since the whole pro-
+cedure has to be repeated for any new atomic confi-
+guration, the theoretical prediction of the equilibrium
+geometries, when these are not known from experi-
+ment, still remains an unsolved problem in most cases.
+We adopt a quite different approach and regard the
+minimization of the KS functional as a complex optim-
+ization problem which can be solved by applying the
+concept of simulated annealing, recently introduced by
+Kirkpatrick, Gelatt, and Vecchi.i In this approach an
+objective function O ((A3)) is minimized relative to the
+parameters {A3, by generation of a succession of
+(3's with a Boltzman-type probability distribution
+c exp ( - 0 ((PI)/ T) via a Monte Carlo procedure.
+For T - 0 the state of lowest 0 (( { ) is reached un-
+
+
+©QD 1985 The American Physical Society
+
+
+VOLUME 55, NUMBER 22
+
+
+25 NoVEMBER 1985
+
+
+2471
+
+
+
+<page id="2472"/>
+PHYSICAL REVIEW LETTERS
+
+
+less the system is trapped into some metastable state.
+In our case the objective function is the total-energy
+functional and the variational parameters are the coef-
+ficients of the expansion of the KS orbitals in some
+convenient basis and possibly the ionic positions
+and/or the {aJ}'s. We found that a simulated anneal-
+ing strategy based on MD, rather than on the Metrop-
+olis Monte Carlo method of Kirkpatrick, Gelatt, and
+
+
+Vecchi,4 can be applied efficiently to minimize the KS
+functional. This approach, which may be called
+"dynamical simulated annealing," not only is useful as
+a minimization procedure but, as we demonstrate
+here, it allows also the study of finite temperature
+properties.
+In our method we consider the parameters {iq},
+{RI}, {la} in the energy-functional [Eq. (1)] to be
+- dependent on time and introduce the Lagrangean
+
+
+L =Y  2+,4d3rIij2+j +MRIR2+jV           2-Va   El {[tqij, {RI}, {a}I
+
+
+(3)
+
+
+where the hi are subject to the holonomic constraints
+fnd3r qi7(r,t)qjp(r,t) = 8ij.                (4)
+In Eq. (3) the dot indicates time derivative, MI are the
+physical ionic masses, and g and g, are arbitrary
+parameters of appropriate units.
+The Lagrangean in Eq. (3) generates a dynamics for
+the parameters {qi}'s, tR,}'s, and laj}'s through the
+equations of motion:
+pA+1(rt) =  8E/8qpT(r,t) + JkA klk(rt),  (5a)
+MIRI=-VRIE,                                 (5b)
+14ev = - (E/1av ),                          (5c)
+where Aik are Lagrange multipliers introduced in order
+to satisfy the constraints in Eq. (4). The ion dynamics
+in Eqs. (5) may have a real physical meaning, whereas
+the dynamics associated with the {qi}'s and the {av) 's
+is fictitious and has to be considered only as a tool to
+perform the dynamical simulated annealing. Equation
+(3) defines a potential energy E and a classical kinetic
+energy K given by
+K = Xj  ,+i4d~r 1  2 +  1 2MfR12 +    2 
+(6)
+The equilibrium value (K) of the classical kinetic en-
+ergy can be calculated as the temporal average over the
+trajectories generated by the equations of motion [Eqs.
+(5)] and related to the temperature of the system by
+suitable normalization. By variation of the velocities,
+i.e., the {q1}'s, {R1}'s, and {f&}'s, the temperature of
+the system can be slowly reduced and for T - 0 the
+equilibrium state of minimal E is reached. At equilib-
+rium   i=0, Eq. (5a) is identical within a unitary
+transformation to the KS equation [Eq. (2)1, and the
+eigenvalues of the A matrix coincide with the occupied
+KS eigenvalues. Only when these conditions are satis-
+fied does the Lagrangean in Eq. (3) describe a real
+physical system whose representative point in config-
+urational space lies on the BO surface. For large sys-
+tems our scheme is more efficient than standard diago-
+nalization techniques.5  Furthermore, in the present
+approach, diagonalization, self-consistency, ionic re-
+2472
+
+
+Taxation, and volume and strain relaxation are
+achieved simultaneously. The amount of classical
+kinetic energy is a measure of the departure of a sys-
+tem from the self-consistent minimum of its total en-
+ergy.
+It should be stressed that the dynamical simulated
+annealing technique introduced above is a method of
+quite general applicability in the context of functional
+minimization. As such it can be useful in many areas
+of physics. For instance, it can be applied to the study
+of classical field theories or to obtain the ground-state
+energy in Hartree-Fock or configuration interaction
+schemes. We also observe that, as far as functional
+minimization is concerned, Newtonian dynamics may
+be conveniently replaced by Langevin6 or other types
+of dynamics.7
+In order to illustrate how our method works in prac-
+tice, we present results obtained for the ground-state
+electronic structure of Si as follows. We have con-
+sidered a simple cubic supercell containing eight atoms
+subject to periodic boundary conditions. We have
+used a local pseudopotential8 and a local-density ap-
+proximation to the exact exchange and correlation
+functional.9 The single-particle orbitals for the valence
+electrons have been expanded in plane waves with an
+energy cutoff of 8 Ry, which amounts to including 437
+plane waves at the F point. For simplicity, only the r
+point of the Brillouin zone (BZ) of the supercell has
+been considered in the evaluation of the energy func-
+tional.10 This leads to a total of 16 x 437 complex elec-
+tronic variational parameters, since sixteen is the
+number of doubly occupied KS levels. A simulated
+annealing run is illustrated in Fig. 1. The lattice
+parameter was allowed to vary while the ions were kept
+in their perfect diamond arrangement. The total ener-
+gy, the lattice parameter, and the eigenvalues of the
+matrix of the Lagrangean multipliers are plotted as
+functions of the simulation "time." The initial condi-
+tions for the electronic orbitals were fixed by filling
+the lowest available plane-wave states and giving a
+Maxwellian distribution of velocities to the com-
+ponents of the fields. The value of g was chosen to be
+1 a.u. The mass go associated with variation in the
+volume was taken to be i0-5 a.u. The Verlet algo-
+
+
+VOLUME 55, NUMBER 22
+
+
+25 NOVEMBER 1985
+
+
+
+<page id="2473"/>
+PHYSICAL REVIEW LETTERS
+
+
+wz
+w
+-
+( 
+HO 
+~-   
+0 Z-
+W H
+-i 
+WHM
+
+
+< cn
+on-
+z z
+O D
+w -
+u_ M
+ct _
+J
+
+
+t/At
+FIG. 1. Evolution of total energy per atom, lattice con-
+stant, and eigenvalues of the A matrix, during a typical
+dynamical annealing run. The partial averages of the classi-
+cal kinetic energy K during each subsection of the run are
+indicated in the lower part of the picture. For K - 0 the
+eigenvalues of the A matrix tend to the KS eigenvalues.
+The various multiplets are labeled according to the sym-
+metry of the diamond lattice.
+rithm1l with a time step of 0.1 a.u. was used and the
+values of the Lagrange multipliers were determined by
+the method of Ryckaert, Ciccotti, and Berendsen.12
+After some initial equilibration the temperature was
+progressively reduced to very small values. A satisfac-
+tory degree of convergence is seen to be achieved after
+200 time steps, when our results agree within nu-
+merical errors with those of a conventional self-
+consistent calculation for the same model. 13
+We can consider now a situation in which the ions,
+to which we associate their actual physical masses, are
+allowed to move at a given temperature, while the
+kinetic energy of the electronic variational parameters
+remains equal to zero. In this case the electrons are at
+any time in their ground state and the ions move
+under the action of BO forces. This can be achieved
+either by conveniently reoptimizing the electronic vari-
+ational parameters or by realizing a metastable situa-
+tion in which the kinetic energy associated with the
+qOh's remains always very small compared to the typical
+variations of the potential energy of the system. This
+is equivalent to giving the BO surface a finite thickness
+proportional to the temperature associated with the
+qi's. If this temperature remains very small, the ion
+
+
+0.025
+0.000
+-0.025
+( 4.1925
+4.1935
+D  0.03
+O   0.02
+0.01
+-04
+-0.5
+
+
+-5 x 10-13 sec
+/      _
+
+
+200
+t//At
+
+
+400
+
+
+200   400
+t/At
+
+
+FIG. 2. From top to bottom, temporal evolution of aver-
+age atomic displacement along Er ,, potential energy per
+atom, and F25, and rF multiplets for two different MD runs.
+The lattice constant was taken to be equal to the experimen-
+tal value of 10.26 a.u.; Atand [t were taken to be 10 and 300
+a.u., respectively. The dashed line in the second panel from
+the top indicates the T = 0 ground-state energy. The trian-
+gles indicate a doubly degenerate level.
+dynamics generated via Eqs. (5) provides a good
+representation of the actual dynamics of a physical sys-
+tem.
+In Fig. 2 we report the results of two different sets
+of calculations in which we have performed dynamical
+simulations for our model. In these calculations it was
+not necessary to reoptimize the electronic variational
+parameters at each point along the trajectory, since the
+thickness of the BO surface never exceeded the value
+of 7 x 10-6 a.u. per atom, a rather small fraction of the
+potential energy variation. This is perfectly adequate
+to represent the interionic forces in this particular case.
+If the thickness of the BO surface were too large, not
+only would the forces be incorrectly estimated but also
+they might depend upon the path along which a given
+point of the potential energy surface is approached.
+On the other hand, for very small thicknesses the low
+velocities of the electronic variational parameters
+might lead to intolerably long relaxation times. In
+such a case a compromise would be necessary. In Fig.
+2(a) the atoms were initially displaced from their per-
+fect lattice position according to the eigenmode Er ,,
+corresponding to the optical phonon mode at the F
+point of the diamond lattice. The system undergoes
+slightly anharmonic oscillations whose frequency is 20
+THz, in perfect agreement with the results of a static
+frozen-phonon  calculation  for the  same  model,13
+showing that the thickness of the BO surface was ade-
+quate. In Fig. 2 (a) we also report how the effect of
+the ionic oscillatory motion is reflected in some elec-
+tronic properties. Notice that the threefold degenerate
+
+
+2473
+
+
+:                                                a25
+E
+r25|....                  ....                 ...
+
+
+25 NOVEMBER 1985
+
+
+VOLUME 55, NUMBER 22
+
+
+
+<page id="2474"/>
+PHYSICAL REVIEW LETTERS
+
+
+topmost r25, level splits, in perfect phase with the ion-
+ic motion, into a singlet and a doublet, whereas the
+low-lying r1 state is hardly affected by the ionic
+motion. These results are contrasted with those re-
+ported in Fig. 2(b). Here the ions were first randomly
+displaced from their equilibrium position and a simu-
+lated annealing was performed in order to bring the
+electrons in the corresponding ground state. The ions
+were then allowed to move. After some equilibration
+the average kinetic energy associated with ionic motion
+had a value corresponding to - 250 K and the
+behavior of the system was as illustrated in Fig. 2(b).
+The projection of the ionic displacement along the Er,
+eigenvector and the electronic properties do not show
+any apparent correlation. The degeneracy of the F25,
+one-electron eigenstate is completely lifted by thermal
+disorder, while the F1 state still remains hardly affect-
+ed by the ionic motion.
+The calculations presented here can all be performed
+on a VAX-like minicomputer. Access to supercom-
+puters can make possible the simulation of larger sys-
+tems and more realistic models. Because of the simpli-
+city of Newton's equations the computer code can be
+fully vectorized with not much effort. However the
+main advantages of the present approach lie in its abili-
+ty to perform a global minimization of the energy DF
+and, more importantly, in offering a convenient and,
+in principle, exact tool for studying finite temperature
+effects and dynamical properties.
+We benefited from discussions with A. Baldereschi,
+P. Carnevali, A. Nobile, S. T. Pantelides, A. Selloni,
+E. Tosatti, and A. R. Williams. Special thanks are due
+to S. Baroni for precious suggestions and valuable
+help. This work has been supported by the Gruppo
+
+
+Nazionale di Struttura della Materia del Consiglio Na-
+zionale delle Richerche and by the Ministero della
+Pubblica Istruzione.
+1See, for instance, Theory of the Inhomogeneous Electron
+Gas, edited by S. Lundqvist and N. M. March (Plenum, New
+York, 1983).
+2A. Rahman, in Correlation Functions and Quasiparticle In-
+teractions in Condensed Matter, edited by J. Woods Halley,
+NATO Advanced Study Series Vol. 35 (Plenum, New York,
+1977).
+3W. Kohn and L. J. Sham, Phys. Rev. 140, A1133 (1965).
+4S. Kirkpatrick, C. D. Gelatt, Jr., and M. P. Vecchi, Sci-
+ence 220, 671 (1983).
+5For instance, if the Noccupied single-particle orbitals are
+expanded into M plane waves (M >> N), a standard diago-
+nalization requires 0(M3) operations, whereas Eq. (5a) re-
+quires both 0 (NM ln M) and 0 (N2M) operations.
+6p. Carnevali and A. Selloni, private communication.
+7P. J. Rossky, J. D. Doll, and H. L. Friedman, J. Chem.
+Phys. 69, 4628 (1978); C. Pangali, M. Rao, and B. J. Berne,
+Chem. Phys. Lett. 55, 413 (1978).
+8j. A. Appelbaum and D. R. Hamann, Phys. Rev. B 8,
+1777 (1973).
+9J. P. Perdew and A. Zunger, Phys. Rev. B 23, 5048
+(1981).
+10The sampling of the BZ and the pseudopotential used in
+this paper are not very accurate and should be replaced with
+better ones in more realistic calculations.
+11L. Verlet, Phys. Rev. 159, 98 (1967).
+12j. P. Ryckaert, G. Ciccotti, and H. J. C. Berendsen, J.
+Comput. Phys. 23, 327 (1977).
+13When accurate pseudopotentials are used together with
+an accurate sampling of the BZ, local-density calculations
+agree very well with experiment [see M. T. Yin and M. L.
+Cohen, Phys. Rev. B 26, 3259 (1982)].
+
+
+2474
+
+
+25 NoVEMBER 1985
+
+
+VOLUME 55, NUMBER 22
+
+
+

@@ -1,0 +1,2 @@
+03f3dcf964238af5508a3793d9a2934867212561 data/PhysRevLett.55.2471/online.pdf
+e684a3a8e3a14358549f2868f5a7b7a8d38da493 data/PhysRevLett.55.2471/fulltext.ocr
