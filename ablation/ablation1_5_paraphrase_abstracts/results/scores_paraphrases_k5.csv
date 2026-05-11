@@ -1,0 +1,611 @@
+paper_idx,para_idx,GPT_output
+0,0,"{""system"":""1T-VSe2; transition-metal dichalcogenide (single crystals)"",""model"":""High-pressure transport: resistance, magnetoresistance, and Hall measurements under quasihydrostatic pressure"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":5.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+0,3,"{""system"": ""1T-VSe2; transition-metal dichalcogenide (single crystal)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 5.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+0,2,"{""system"": ""1T-VSe2; layered transition-metal dichalcogenide"", ""model"": ""High-pressure transport measurements (resistivity, magnetoresistance, Hall effect)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 5.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+0,1,"{""system"":""1T-VSe2; transition-metal dichalcogenide"",""model"":""High-pressure transport (resistance, magnetoresistance, Hall) measurements"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":5,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+1,0,"{""system"":""Transmon qubit coupled to a superconducting resonator; superconducting circuit (circuit QED)"",""model"":""circuit QED experiment"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+1,1,"{""system"": ""Flux-modulated transmon qubit coupled to a superconducting resonator; circuit QED experiment"", ""model"": ""circuit QED (flux-modulated transmon)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+1,2,"{""system"": ""Transmon qubit coupled to a superconducting resonator; circuit QED"", ""model"": ""Circuit quantum electrodynamics (frequency-modulated transmon)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+0,4,"{""system"": ""1T-VSe2; transition metal dichalcogenide"", ""model"": ""High-pressure transport (resistivity, magnetoresistance, Hall) measurements"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 5.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+1,3,"{""system"": ""Transmon qubit and superconducting resonator; circuit QED"", ""model"": ""circuit QED (experimental)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+1,4,"{""system"":""Transmon qubit coupled to a superconducting resonator; circuit QED"",""model"":""Circuit QED (driven transmon–resonator Hamiltonian, frequency modulation)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+2,0,"{
+  ""system"": ""Quantum dot coupled to a topological superconductor and a normal lead"",
+  ""model"": ""Kondo/Anderson impurity model with Majorana coupling; renormalization-group, slave-boson mean-field theory, density-matrix renormalization-group (DMRG)"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+2,1,"{
+  ""system"": ""Quantum dot coupled to a topological superconductor and a normal lead"",
+  ""model"": ""Kondo/Anderson impurity model with Majorana coupling; renormalization-group analysis, slave-boson mean-field theory, DMRG"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+2,2,"{""system"":""Quantum dot coupled to a topological superconductor and a normal lead"",""model"":""Kondo/Anderson-like quantum impurity coupled to a Majorana zero mode; renormalization-group, slave-boson mean-field, density-matrix renormalization-group"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+2,4,"{""system"":""Quantum dot coupled to a one-dimensional topological superconductor (Majorana zero modes) and a normal lead"",""model"":""Anderson/Kondo impurity model with Majorana coupling; renormalization-group, slave-boson mean-field theory, density-matrix renormalization-group (DMRG)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+3,0,"{""system"": ""Bi2Sr2CaCu2O8+δ (Bi-2212); cuprate"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+2,3,"{
+  ""system"": ""Quantum dot coupled to a topological superconductor (Majorana zero modes) and a normal lead"",
+  ""model"": ""Anderson/Kondo impurity model with Majorana coupling; renormalization-group, slave-boson mean-field, DMRG"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+3,1,"{
+  ""system"": ""Bi2Sr2CaCu2O8 (Bi-2212) cuprate"",
+  ""model"": ""Experimental: synthesis, structural (modulation vector q) and Tc measurements"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+3,3,"{
+  ""system"": ""Bi2Sr2CaCu2O8 (Bi-2212); cuprate superconductor"",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+3,4,"{""system"":""Bi2Sr2CaCu2O8 (Bi-2212); bismuth cuprate"",""model"":""N/A"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+3,2,"{""system"": ""Bi2Sr2CaCu2O8+δ (Bi-2212 cuprate)"", ""model"": ""Experimental study: oxygen annealing, structural (modulation vector q) measurements and Tc characterization"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+4,1,"{""system"":""REBCO (RE = rare earth) high-temperature superconducting wires"",""model"":""IBAD-MOCVD fabrication; transport measurements and materials characterization"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+4,0,"{""system"":""REBCO (rare-earth) 2G high-temperature superconductor wires on Hastelloy C276 substrates"",""model"":""IBAD-MOCVD fabrication; electropolishing and buffer-stack deposition; low-temperature in-field transport measurements"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+4,2,"{""system"": ""REBCO (RE = rare earth) 2G HTS wires on Hastelloy C276"", ""model"": ""IBAD-MOCVD fabrication; experimental characterization"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+4,4,"{""system"":""REBCO (RE = rare earth) 2G HTS wires on Hastelloy C276 substrates"",""model"":""IBAD-MOCVD fabrication; experimental transport and structural characterization"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+4,3,"{""system"": ""REBCO (RE = rare earth) coated conductors; 2G HTS wires on Hastelloy C276"", ""model"": ""IBAD-MOCVD fabrication; materials characterization (transport and structural)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+5,0,"{""system"":""Bi2Sr2CaCu2O8+δ; cuprate"",""model"":""Tunneling spectroscopy (break-junction)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+5,1,"{""system"": ""Bi2Sr2CaCu2O8+δ; cuprate"", ""model"": ""tunneling spectroscopy; break-junction Josephson IcRn measurements"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+5,2,"{""system"": ""Bi2Sr2CaCu2O8+δ; cuprate superconductor"", ""model"": ""tunneling spectroscopy / break-junction Josephson measurements"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+5,4,"{""system"": ""Bi2Sr2CaCu2O8+δ; cuprate superconductor"", ""model"": ""tunneling spectroscopy; break-junction Josephson measurements"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+5,3,"{""system"":""Bi2Sr2CaCu2O8+δ; cuprate"",""model"":""Tunneling spectroscopy (break-junction Josephson IcRn measurements)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+6,0,"{""system"":""Fenna–Matthews–Olson (FMO) photosynthetic complex; superconducting-circuit quantum simulator"",""model"":""Analog quantum simulator for open quantum systems (superconducting circuits)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+6,3,"{""system"":""Fenna–Matthews–Olson photosynthetic exciton system; simulated with superconducting circuits (analog quantum simulator)"",""model"":""Analog quantum simulator / superconducting-circuit implementation for open quantum systems"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+6,1,"{""system"":""Fenna–Matthews–Olson (FMO) photosynthetic complex; exciton transport"",""model"":""Analog quantum simulator using superconducting circuits (open quantum system simulation)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+6,2,"{""system"": ""Fenna–Matthews–Olson (FMO) photosynthetic complex; superconducting-circuit analog quantum simulator"", ""model"": ""Analog quantum simulation of open quantum systems using superconducting circuits"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+6,4,"{
+  ""system"": ""Analog quantum simulator using superconducting circuits; Fenna–Matthews–Olson (FMO) photosynthetic complex"",
+  ""model"": ""Open quantum system simulation / analog quantum simulator with superconducting circuits"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+7,1,"{""system"":""2D surface superconductivity; surface with strong spin-orbit coupling"",""model"":""BCS mean-field / LOFF theory with Rashba-type spin-orbit coupling"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+7,0,"{""system"": ""2D surface superconductivity; surface with strong spin-orbit coupling"", ""model"": ""BCS/LOFF mean-field theory with surface spin-orbit coupling"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+7,2,"{""system"":""2D surface superconductivity with strong spin-orbit coupling"",""model"":""BCS/LOFF mean-field theory with spin-orbit interaction"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+7,4,"{""system"": ""2D surface superconductor with strong surface spin-orbit coupling"", ""model"": ""BCS/LOFF mean-field theory with spin-orbit coupling"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+7,3,"{""system"":""2D surface superconductor with strong spin–orbit coupling; surface superconductivity"",""model"":""BCS/LOFF (FFLO) theory with Rashba spin-orbit coupling"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+8,0,"{""system"":""Twisted bilayer graphene; magic-angle graphene superlattice"",""model"":""Field-theory of Dirac fermions with Wess–Zumino–Witten terms / topological band analysis"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":4.0,""spin liquid el correlation"":5.0}"
+8,1,"{""system"":""Twisted bilayer graphene (magic-angle); graphene superlattice"",""model"":""Field theory / nonlinear sigma model with Wess–Zumino–Witten terms; topological band analysis"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":5.0,""spin liquid el correlation"":4.0}"
+8,2,"{""system"": ""Twisted bilayer graphene; magic-angle graphene superlattice"", ""model"": ""Wess-Zumino-Witten effective field theory; topological band-structure analysis"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 4, ""spin liquid el correlation"": 3}"
+8,3,"{""system"": ""Twisted bilayer graphene; magic-angle graphene superlattice"", ""model"": ""Effective field theory (nonlinear sigma model with Wess-Zumino-Witten term); topological band theory"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 3, ""spin liquid el correlation"": 5}"
+9,1,"{""system"":""Thin superconducting film with blind/open circular holes; patterned film"",""model"":""Ginzburg-Landau theory and numerical simulations (boundary-condition analysis)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+9,0,"{""system"": ""Thin superconducting film with blind/open circular holes; mesoscopic superconducting film"", ""model"": ""Ginzburg-Landau theory and numerical simulations"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+8,4,"{""system"": ""Twisted bilayer graphene; magic-angle graphene superlattice"", ""model"": ""Wess-Zumino-Witten field theory / effective field theory; topological band analysis"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 5.0, ""spin liquid el correlation"": 3.0}"
+9,2,"{""system"":""Thin superconducting film with blind/open circular holes; microdisk geometry"",""model"":""Ginzburg-Landau theory (nucleation analysis) with derived boundary condition and numerical simulations; Bitter-decoration experiments"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+9,3,"{""system"":""Thin superconducting film with blind and open circular holes; mesoscopic superconductor"",""model"":""Ginzburg-Landau theory; derived steplike thin-film boundary condition; numerical simulations; Bitter-decoration experiments"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+9,4,"{""system"":""Thin superconducting film with blind circular hole; mesoscopic patterned film"",""model"":""Ginzburg–Landau theory (numerical simulations) with derived boundary conditions"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+10,0,"{
+  ""system"": ""RRh4B4, RxMo6S8, RxMo6Se6; rare-earth superconductors"",
+  ""model"": ""Reformulated boson theory for the mixed state; self-consistent calculation of vortex currents and spin magnetization"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+10,3,"{
+  ""system"": ""Rare-earth superconductors (RRh4B4, RxMo6S8, RxMo6Se6)"",
+  ""model"": ""Boson theory reformulated for the mixed state (self-consistent vortex current and spin magnetization)"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+10,2,"{""system"": ""Rare-earth superconductors (RRh4B4, RxMo6S8, RxMo6Se6)"", ""model"": ""Boson theory reformulation; self-consistent calculation of vortex currents and spin magnetization"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+10,1,"{""system"":""RRh4B4, RxMo6S8, RxMo6Se6; rare-earth magnetic superconductors"",""model"":""Boson theory (self-consistent treatment of vortex currents and spin magnetization)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":1.0,""FM fluctuation"":1.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+10,4,"{""system"":""RRh4B4, RxMo6S8, RxMo6Se6; rare-earth superconductors (mixed/vortex state)"",""model"":""Boson theory reformulated for mixed state; self-consistent vortex and spin-magnetization calculations"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+11,1,"{
+  ""system"": ""Aluminium superconducting microwave resonator; superconducting detector"",
+  ""model"": ""Experimental microwave resonator measurement"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+11,0,"{""system"": ""Aluminium superconducting microwave resonator"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+11,2,"{""system"": ""Aluminium; superconducting microwave resonator (detector)"", ""model"": ""Microwave resonator experiment; quasiparticle lifetime measurements"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+12,0,"{
+  ""system"": ""N/A"",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+11,4,"{""system"": ""Aluminium; superconducting microwave resonator (detector)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+11,3,"{""system"": ""Aluminium superconducting microwave resonator; superconducting detector"", ""model"": ""microwave resonator experiment"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+12,1,"{""system"":""N/A"",""model"":""N/A"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+12,2,"{""system"":""N/A"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+12,3,"{""system"": ""N/A"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+12,4,"{""system"": ""N/A"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+13,0,"{""system"": ""MoxW1−xTe2; Weyl semimetal"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+13,1,"{""system"": ""MoxW1−xTe2; Weyl semimetal (layered compound)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+13,2,"{""system"":""MoxW1-xTe2; layered transition metal dichalcogenide (Weyl semimetal)"",""model"":""N/A"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+13,4,"{
+  ""system"": ""MoxW1−xTe2; Weyl semimetal (layered material)"",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+13,3,"{""system"":""MoxW1−xTe2; layered transition-metal dichalcogenide (Weyl semimetal proposal)"",""model"":""N/A"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+14,1,"{""system"":""SrRuO3, CaRuO3, Sr2RuO4, RuO2, Ru metal; ruthenates (3D and 2D perovskites), focus on Sr2RuO4 superconductivity"",""model"":""Ru NMR (101Ru), combined with previous 17O NMR; modified Korringa analysis and Stoner-factor (itinerant spin-fluctuation) analysis"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":2.0,""FM fluctuation"":5.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+14,0,"{""system"": ""Sr2RuO4; SrRuO3; CaRuO3; RuO2; Ru metal"", ""model"": ""Ru NMR (nuclear magnetic resonance) experiments"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 2.0, ""FM fluctuation"": 5.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+14,3,"{""system"":""Sr2RuO4; SrRuO3; CaRuO3; RuO2; Ru metal (ruthenates)"",""model"":""Ru NMR measurements (Knight shift and 1/T1); experimental NMR spectroscopy"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":2.0,""FM fluctuation"":5.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+15,0,"{""system"":""2D nanomaterials (graphene, graphene derivatives, TMDCs, MXenes, MOFs, COFs, h-BN, etc.)"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+14,2,"{""system"": ""Sr2RuO4 and related ruthenates (SrRuO3, CaRuO3, RuO2, Ru metal)"", ""model"": ""Ru NMR experiments (Knight shift, 101(1/T1), modified-Korringa analysis)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 2.0, ""FM fluctuation"": 5.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+15,1,"{
+  ""system"": ""2D nanomaterials; graphene, graphene derivatives, TMDs, MXenes, MOFs, COFs, h-BN, etc."",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+15,2,"{""system"":""2D nanomaterials (graphene, graphene derivatives, TMDs, MXenes, MOFs, COFs, h-BN, etc.)"",""model"":""N/A"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+14,4,"{""system"": ""Ruthenates: SrRuO3 (ferromagnet), CaRuO3 (nearly ferromagnetic metal), Sr2RuO4 (superconductor), RuO2, Ru metal"", ""model"": ""Ru NMR (combined with prior 17O NMR); experimental"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 2, ""FM fluctuation"": 5, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 1, ""spin liquid el correlation"": 0}"
+15,3,"{""system"":""2D nanomaterials; graphene, graphene nanosheets, graphene nanoplatelets, MOFs, TMDs, MXenes, COFs, h-BN, etc."",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+15,4,"{""system"":""2D nanomaterials (graphene, graphene derivatives, graphene nanosheets/nanoplatelets, TMDs, MXenes, MOFs, COFs, h-BN, etc.)"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+16,1,"{""system"":""Complex oxides (manganites, cuprates); correlated oxides"",""model"":""Nonlinear phononics / ionic Raman scattering; ultrafast optical spectroscopy and ultrafast X-ray diffraction (XFEL)"",""pure el-ph coupling"":5.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":1.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":1.0,""spin liquid el correlation"":0.0}"
+16,0,"{""system"":""Complex oxides (manganites, high-Tc cuprates); strongly correlated oxides"",""model"":""Nonlinear phononics / ionic Raman scattering framework; ultrafast mid-infrared excitation, femtosecond optical spectroscopy and ultrafast X-ray diffraction"",""pure el-ph coupling"":5.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":1.0,""FM fluctuation"":1.0,""charge density wave"":5.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":2.0,""spin liquid el correlation"":0.0}"
+16,3,"{""system"":""Complex oxides (manganites, high-Tc cuprates); correlated oxides"",""model"":""Nonlinear phononics / ionic Raman scattering; femtosecond mid-IR excitation, ultrafast optical spectroscopy and ultrafast X-ray diffraction"",""pure el-ph coupling"":4.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":1.0,""FM fluctuation"":1.0,""charge density wave"":3.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":2.0,""spin liquid el correlation"":0.0}"
+16,2,"{""system"": ""Molecular and condensed-phase systems; complex oxides (manganites, cuprates)"",""model"": ""Nonlinear phononics / ionic Raman scattering; ultrafast optical spectroscopy and ultrafast X-ray diffraction (XFEL) experiments"",""pure el-ph coupling"": 5.0,""bipolaron el-ph coupling"": 0.0,""AFM fluctuation"": 0.0,""FM fluctuation"": 0.0,""charge density wave"": 1.0,""nematic fluctuation"": 1.0,""plasmon fluctuation"": 0.0,""pure el correlation"": 2.0,""spin liquid el correlation"": 0.0}"
+17,1,"{""system"":""HgBa2Ca2Cu3O8+δ; Hg-based cuprate thin films"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+17,0,"{""system"": ""HgBa2Ca2Cu3O8+δ; mercury-based cuprate"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+17,2,"{
+  ""system"": ""HgBa2Ca2Cu3O8+δ; mercury-based cuprate thin films"",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+17,4,"{""system"": ""HgBa2Ca2Cu3O8+δ; mercury-based cuprate thin films"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+17,3,"{""system"":""HgBa2Ca2Cu3O8+δ; Hg-based cuprate thin films"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+18,1,"{""system"": ""High-Tc superconducting flux pump; HTS magnet device"", ""model"": ""Experimental device study (transformer–rectifier flux pump using Jc(B) switching; E–J relation analysis)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+18,0,"{""system"":""HTS flux pump; high-temperature superconductor coils"",""model"":""Jc(B) switching; E–J relation analysis; transformer–rectifier experimental device"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+16,4,"{""system"":""Complex oxides (manganites, cuprates, correlated oxides)"",""model"":""Nonlinear phononics theory; ultrafast optical spectroscopy and ultrafast X-ray diffraction (experimental review)"",""pure el-ph coupling"":4.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":1.0,""FM fluctuation"":1.0,""charge density wave"":3.0,""nematic fluctuation"":2.0,""plasmon fluctuation"":0.0,""pure el correlation"":2.0,""spin liquid el correlation"":0.0}"
+18,2,"{
+  ""system"": ""HTS flux pump; high-temperature superconductor (77 K)"",
+  ""model"": ""E–J relation / Jc(B) switching model; transformer–rectifier experimental implementation; efficiency derivation"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+18,4,"{""system"": ""HTS flux pump; high-temperature superconductor device (transformer–rectifier-type)"", ""model"": ""experimental device implementation and measurement"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+18,3,"{""system"":""HTS flux pump; high-temperature superconductor (coated conductor/tape)"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+19,0,"{""system"": ""PEG-coated Fe3O4 nanoparticles; magnetic nanoparticles"", ""model"": ""Experimental characterization (XRD, HRTEM, VSM, SQUID magnetometry)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+19,1,"{""system"":""PEG-coated Fe3O4 (magnetic) nanoparticles (12–16 nm)"",""model"":""XRD, HRTEM, ac susceptibility (VSM), dc magnetization (SQUID) — experimental study"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+19,2,"{
+  ""system"": ""Fe3O4 (magnetite) nanoparticles; PEG-coated, 12–16 nm"",
+  ""model"": ""Experimental magnetic characterization (XRD, HRTEM, VSM, SQUID); spin-glass-like surface spin / finite-size / inter-particle interaction analysis"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+19,3,"{""system"": ""Fe3O4 (magnetite) nanoparticles; PEG-coated magnetic nanoparticles"", ""model"": ""Experimental characterization (co-precipitation synthesis; XRD, HRTEM, VSM, SQUID)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+19,4,"{""system"": ""PEG-coated Fe3O4 (magnetite) nanoparticles (12–16 nm)"", ""model"": ""Experimental characterization: XRD, HRTEM, VSM, SQUID magnetometry"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+20,2,"{""system"": ""Bi2O2S and Bi4O4S3; Bi–S–O (bismuth sulfide-derived compounds)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+20,1,"{""system"": ""Bi2O2S (photoelectric) and Bi4O4S3 (superconducting); bismuth sulfide-based layered compounds"", ""model"": ""Hydrothermal synthesis; powder XRD, SEM, TEM, EDX; transport and magnetic susceptibility measurements; theoretical calculations and packing-factor model (unspecified)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+20,0,"{
+  ""system"": ""Bi2O2S (photoelectric) and Bi4O4S3 (superconductor); Bi–S–O compounds"",
+  ""model"": ""packing-factor model; theoretical calculations (unspecified)"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+20,3,"{""system"": ""Bi2O2S and Bi4O4S3; bismuth-sulfide-based compounds"", ""model"": ""packing factor model; theoretical calculations (unspecified)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+21,1,"{""system"":""Superconducting quantum circuit; two-level system (qubit/TLS)"",""model"":""Two-level system (TLS); continuous weak measurement; Rabi oscillations"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+21,0,"{""system"": ""superconducting quantum circuit; superconducting qubit (two-level system)"", ""model"": ""continuous weak measurement; driven Rabi oscillations; quantum measurement theory"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+20,4,"{
+  ""system"": ""Bi4O4S3 (superconductor) and Bi2O2S (semiconductor); Bi–S–O bismuth sulfide/oxide compounds"",
+  ""model"": ""First-principles calculations (likely DFT) and packing-factor model; experimental characterization (XRD, SEM, TEM, EDX, transport, magnetization)"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+21,2,"{""system"": ""superconducting qubit; superconducting quantum circuit (TLS)"", ""model"": ""continuous weak measurement / circuit QED experiment"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+21,3,"{""system"":""superconducting quantum circuit (TLS); superconducting qubit"",""model"":""continuous weak measurement experiment"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+21,4,"{""system"":""Superconducting quantum circuit; superconducting qubit (two-level system)"",""model"":""Continuous weak measurement experiment (Rabi-driven TLS)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+22,0,"{""system"":""kappa-(BEDT-TTF)2Cu[N(CN)2]Br; quasi-2D organic superconductor (kappa-BEDT-TTF)"",""model"":""13C NMR experiment"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":5,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":4,""spin liquid el correlation"":0}"
+22,2,"{""system"": ""kappa-(BEDT-TTF)2Cu[N(CN)2]Br; quasi-2D organic Mott system"", ""model"": ""single-crystal 13C NMR experiment"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 5, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 5, ""spin liquid el correlation"": 0}"
+22,1,"{""system"":""deuterated kappa-(BEDT-TTF)2Cu[N(CN)2]Br; quasi-2D organic (BEDT-TTF) salt"",""model"":""single-crystal 13C NMR (experimental)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":5,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":5,""spin liquid el correlation"":0}"
+22,3,"{""system"": ""kappa-(BEDT-TTF)2Cu[N(CN)2]Br; quasi-2D organic superconductor near Mott transition"", ""model"": ""13C NMR experiment (single-crystal); experimental study"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 4.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 5.0, ""spin liquid el correlation"": 0.0}"
+22,4,"{""system"":""Deuterated κ-(BEDT-TTF)2Cu[N(CN)2]Br; organic κ-ET superconductor near Mott transition"",""model"":""13C NMR (single-crystal) experiment"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":4.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":5.0,""spin liquid el correlation"":0.0}"
+23,1,"{""system"":""LaO1−xFxBiS2; BiS2-based superconductor"",""model"":""neutron diffraction; pair density function analysis"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":5.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+23,0,"{
+  ""system"": ""LaO1−xFxBiS2; BiS2-based superconductor"",
+  ""model"": ""neutron diffraction; pair distribution function analysis (PDF); mentions theoretical spin–orbit coupling"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 5,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+23,3,"{""system"":""LaO1−xFxBiS2; BiS2-based superconductor"",""model"":""neutron diffraction; pair density function (PDF) analysis"",""pure el-ph coupling"":1.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":5.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+23,2,"{""system"": ""LaO1−xFxBiS2; BiS2-based superconductor"", ""model"": ""neutron diffraction; pair distribution function (PDF) analysis"", ""pure el-ph coupling"": 1.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 5.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+24,0,"{
+  ""system"": ""Ultrathin Fe(110) films on Ag(111) substrate; epitaxial 4-layer Fe film"",
+  ""model"": ""Conversion-electron Mössbauer spectroscopy; SQUID magnetometry; comparison with band-structure calculations and spin-wave theory"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+23,4,"{""system"": ""LaO1−xFxBiS2; BiS2-based superconductor"", ""model"": ""Neutron diffraction; pair distribution function (PDF) analysis"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 5.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+24,3,"{""system"":""Ultrathin Fe(110) films on Ag(111); ferromagnetic thin film"",""model"":""Experimental: conversion-electron Mössbauer spectroscopy and SQUID magnetometry"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+24,1,"{""system"": ""Ultrathin Fe(110) films on Ag(111); ferromagnetic thin film"", ""model"": ""Conversion-electron Mössbauer spectroscopy and SQUID magnetometry (experimental)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+24,4,"{""system"": ""Ultrathin Fe(110) films on Ag(111); ferromagnetic thin films"", ""model"": ""Conversion-electron Mössbauer spectroscopy; SQUID magnetometry (experimental)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+24,2,"{""system"": ""Ultrathin Fe(110) films on Ag(111) substrate; ferromagnetic thin films"", ""model"": ""Conversion-electron Mössbauer spectroscopy; SQUID magnetometry (experimental study)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+25,0,"{""system"": ""Two-area interconnected power system with SMES (superconducting magnetic energy storage)"", ""model"": ""Self-tuning adaptive control; control system simulations"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+25,2,"{
+  ""system"": ""Two-area interconnected power system with superconducting magnetic energy storage (SMES)"",
+  ""model"": ""Computer simulations; self-tuning adaptive control for AGC and SMES"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+25,1,"{""system"":""Two-area interconnected power system with superconducting magnetic energy storage (SMES)"",""model"":""Computer simulations of AGC with self-tuning adaptive control (adaptive and nonadaptive controller comparison)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+25,4,"{
+  ""system"": ""Two-area interconnected power system with SMES (superconducting magnetic energy storage)"",
+  ""model"": ""Computer simulations; self-tuning adaptive control (AGC and SMES controllers)"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+25,3,"{""system"":""Power system; superconducting magnetic energy storage (SMES)"",""model"":""Self-tuning adaptive control; computer simulations"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+26,1,"{""system"":""YBa2Cu3O7; cuprate superconductor"",""model"":""Ginzburg-Landau theory (variational model), effective-mass tensor"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+26,0,"{""system"": ""YBa2Cu3O7; cuprate superconductor"", ""model"": ""Ginzburg-Landau theory; variational free-energy model (effective-mass tensor included)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+26,2,"{""system"": ""YBa2Cu3O7; cuprate superconductor"", ""model"": ""Ginzburg–Landau theory; variational model with effective-mass tensor"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+26,3,"{
+  ""system"": ""YBa2Cu3O7; cuprate high-Tc superconductor"",
+  ""model"": ""Ginzburg-Landau theory (variational vortex model, effective-mass anisotropy)"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+27,0,"{""system"": ""high-temperature superconductors"", ""model"": ""Anderson-Kim theory; collective pinning theory"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+26,4,"{""system"": ""YBa2Cu3O7; cuprate (single crystal)"", ""model"": ""Ginzburg-Landau variational model (effective-mass tensor; vortex-core contributions)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+27,1,"{""system"": ""High-temperature superconductors (vortex dynamics/flux creep)"", ""model"": ""Anderson-Kim model; collective pinning theory"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+27,3,"{""system"":""high-temperature superconductors"",""model"":""Anderson-Kim theory; collective pinning theory"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+27,2,"{""system"":""High-temperature superconductors (flux creep / vortex dynamics)"",""model"":""Anderson-Kim theory; collective pinning theory"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+27,4,"{""system"": ""high-temperature superconductors (HTS); vortex flux creep studies"", ""model"": ""Anderson-Kim theory; collective pinning theory"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+28,0,"{""system"":""Bi2Sr2CaCu2O8+δ; cuprate superconductor"",""model"":""Weak collective pinning framework; dc-SQUID magnetometry (vortex dynamics)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+28,1,"{""system"":""Bi2Sr2CaCu2O8+δ; cuprate superconductor"",""model"":""Weak collective pinning theory; dc‑SQUID magnetometry (vortex dynamics)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+28,2,"{""system"": ""Bi2Sr2CaCu2O8+δ; cuprate"", ""model"": ""dc-SQUID magnetometry; weak collective pinning theory (vortex dynamics)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+28,3,"{""system"": ""Bi2Sr2CaCu2O8+δ; cuprate high-Tc superconductor"", ""model"": ""Weak collective pinning theory; vortex dynamics analysis (dc-SQUID magnetometry)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+28,4,"{""system"": ""Bi2Sr2CaCu2O8+δ; cuprate superconductor"", ""model"": ""Weak collective pinning theory; vortex dynamics; dc-SQUID magnetometry (experimental)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+29,2,"{""system"":""Cuprates (Tl2Ba2Ca0.98Gd0.02Cu2O8, YBa2Cu3O6.3, La2CuO4 and doped superconducting counterparts)"",""model"":""Nonadiabatic polaron-transport theory; photoinduced absorption measurements"",""pure el-ph coupling"":5.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+29,0,"{""system"":""Cuprates; high-Tc superconductors and parent insulators (Tl2Ba2Ca..., YBa2Cu3O..., La2CuO4)"",""model"":""Nonadiabatic polaron-transport theory; photoinduced absorption / infrared conductivity measurements"",""pure el-ph coupling"":3.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+29,1,"{""system"":""Cuprates; high-Tc cuprate superconductors and parent insulators"",""model"":""Nonadiabatic polaron-transport theory"",""pure el-ph coupling"":4.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+30,1,"{""system"":""REBa2Cu3O7-x (REBCO) coated conductors; high-Tc cuprate coated conductors for high-field magnets"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+30,0,"{""system"":""REBCO coated conductors (REBa2Cu3O7-x); high-Tc cuprate tapes for high-field magnets"",""model"":""Review; experimental and theoretical studies (N/A)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+30,2,"{""system"":""REBCO (REBa2Cu3O7-x) coated conductors; high-field superconducting wires"",""model"":""Review; experimental and theoretical studies"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+30,3,"{
+  ""system"": ""REBCO (REBa2Cu3O7-x) coated conductors; cuprate high-Tc wires for high-field magnets"",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+29,4,"{""system"": ""Cuprate high-Tc superconductors and parent insulators (Tl-, Y-, La-based cuprates)"", ""model"": ""Nonadiabatic polaron-transport theory; photoinduced absorption experiments"", ""pure el-ph coupling"": 4.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+30,4,"{""system"": ""REBCO (REBa2Cu3O7-x) coated conductors; high-temperature superconductors for high-field magnets"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+29,3,"{""system"": ""cuprates; high-Tc cuprate superconductors and parent insulators"", ""model"": ""Nonadiabatic polaron-transport theory"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+31,0,"{""system"":""LiFe1−xCoxAs; Fe-based superconductor"",""model"":""Angle-resolved photoemission spectroscopy (ARPES)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":5.0,""spin liquid el correlation"":0.0}"
+31,1,"{""system"": ""LiFe1−xCoxAs; Fe-based superconductor"", ""model"": ""Angle-resolved photoemission spectroscopy (ARPES)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 5, ""spin liquid el correlation"": 0}"
+31,2,"{""system"": ""LiFe1−xCoxAs; Fe-based superconductor"", ""model"": ""Angle-resolved photoemission spectroscopy (ARPES)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 5, ""spin liquid el correlation"": 0}"
+31,3,"{""system"": ""LiFe1−xCoxAs; Fe-based superconductor"", ""model"": ""Angle-resolved photoemission spectroscopy (ARPES) experiment"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 5, ""spin liquid el correlation"": 0}"
+31,4,"{""system"":""LiFe1−xCoxAs; Fe-based superconductor"",""model"":""Angle-resolved photoemission spectroscopy (ARPES)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":5.0,""spin liquid el correlation"":0.0}"
+32,1,"{""system"": ""Magic-angle twisted bilayer graphene"", ""model"": ""Experimental magnetotransport and thermodynamic measurements"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 5, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 3, ""spin liquid el correlation"": 0}"
+32,0,"{""system"": ""magic-angle twisted bilayer graphene (tBLG)"", ""model"": ""tilted-field magnetotransport and thermodynamic measurements (experimental)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 5.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 3.0, ""spin liquid el correlation"": 0.0}"
+32,2,"{""system"": ""Magic-angle twisted bilayer graphene"", ""model"": ""magnetotransport and thermodynamic measurements (experimental)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 5, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 3, ""spin liquid el correlation"": 0}"
+33,0,"{""system"": ""(Ba0.7K0.3)(Zn0.85Mn0.15)2As2; diluted magnetic semiconductor (122 pnictide structure)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+33,1,"{""system"": ""(Ba0.7K0.3)(Zn0.85Mn0.15)2As2; diluted magnetic semiconductor (DMS)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+32,3,"{""system"": ""Magic-angle twisted bilayer graphene; moiré flat-band system"", ""model"": ""Tilted-field magnetotransport and thermodynamic probes (experimental study)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 5, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 2, ""spin liquid el correlation"": 0}"
+32,4,"{""system"":""Magic-angle twisted bilayer graphene"",""model"":""Tilted-field magnetotransport and thermodynamic measurements (transport + thermodynamics)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":5,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":4,""spin liquid el correlation"":0}"
+33,3,"{""system"": ""(Ba0.7K0.3)(Zn0.85Mn0.15)2As2; diluted magnetic semiconductor; 122 (ferropnictide-like) structure"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+33,2,"{""system"": ""(Ba0.7K0.3)(Zn0.85Mn0.15)2As2; diluted magnetic semiconductor (DMS), 122 pnictide-structure"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+33,4,"{""system"":""(Ba0.7K0.3)(Zn0.85Mn0.15)2As2; diluted magnetic semiconductor (DMS), isostructural to 122 ferropnictides"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+34,0,"{""system"":""transition metals and their carbides"",""model"":""strong-coupling (Eliashberg) theory; lattice dynamics model"",""pure el-ph coupling"":5,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+34,2,"{""system"": ""transition metals and their carbides"", ""model"": ""strong-coupling (Eliashberg) electron-phonon theory; lattice dynamics model"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+34,3,"{""system"": ""transition metals and their carbides"", ""model"": ""strong-coupling (Eliashberg) theory; lattice dynamics model"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+34,1,"{""system"": ""transition metals and their carbides"", ""model"": ""strong-coupling electron-phonon theory; lattice dynamics model"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+34,4,"{""system"":""transition metals and their carbides"",""model"":""strong-coupling electron-phonon theory; lattice dynamics model"",""pure el-ph coupling"":5.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+35,1,"{""system"":""CoPc molecules on NbSe2; 2D superconductor"",""model"":""STM experiments; lattice and continuum theoretical models"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+35,2,"{""system"":""CoPc (cobalt phthalocyanine) molecules on NbSe2; 2D superconductor"",""model"":""Low-temperature STM/STS experiments; theoretical analysis using lattice and continuum models"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+35,3,"{""system"":""CoPc (cobalt phthalocyanine) magnetic impurities on NbSe2; 2D superconductor"",""model"":""Lattice model; continuum model"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+35,4,"{
+  ""system"": ""CoPc molecules on NbSe2; 2D superconductor"",
+  ""model"": ""Low-temperature STM/STS experiments; lattice and continuum theoretical models"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+35,0,"{""system"": ""CoPc molecules on NbSe2; 2D superconductor"", ""model"": ""STM/STS experiments; lattice and continuum theoretical models"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+36,0,"{""system"": ""Tl2Ba2CuO6+δ; cuprate (tetragonal single-layer)"", ""model"": ""phase-sensitive pairing-symmetry experiment"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+36,1,"{""system"": ""Tl2Ba2CuO6+δ; cuprate"", ""model"": ""phase-sensitive symmetry experiment"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+36,2,"{""system"": ""Tl2Ba2CuO6+δ; cuprate high-Tc superconductor"", ""model"": ""phase-sensitive pairing-symmetry experiment (Josephson/phase interferometry)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+36,4,"{""system"": ""Tl2Ba2CuO6+δ; cuprate (single-layer tetragonal)"", ""model"": ""phase-sensitive experimental measurement"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+36,3,"{""system"": ""Tl2Ba2CuO6+δ; cuprate superconductor"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 5.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 3.0, ""spin liquid el correlation"": 2.0}"
+37,0,"{""system"":""Single-unit-cell FeSe on SrTiO3 (001) and (110); Fe-based superconductor"",""model"":""Angle-resolved photoemission spectroscopy (ARPES)"",""pure el-ph coupling"":5,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+37,1,"{
+  ""system"": ""Single-unit-cell FeSe on SrTiO3 (001) & (110); Fe-based superconductor"",
+  ""model"": ""ARPES"",
+  ""pure el-ph coupling"": 5.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 0.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+37,3,"{""system"":""Single-unit-cell FeSe on SrTiO3 (001) and (110); FeSe/STO interface"",""model"":""Angle-resolved photoemission spectroscopy (ARPES)"",""pure el-ph coupling"":5.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+37,2,"{""system"": ""FeSe films on SrTiO3 (FeSe/STO); Fe-based superconductor"", ""model"": ""Angle-resolved photoemission spectroscopy (ARPES)"", ""pure el-ph coupling"": 5, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+37,4,"{
+  ""system"": ""Single-unit-cell FeSe on SrTiO3 (001) and (110); Fe-based superconductor / STO surfaces/interfaces"",
+  ""model"": ""Angle-resolved photoemission spectroscopy (ARPES); experimental comparative surface study"",
+  ""pure el-ph coupling"": 5,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+38,1,"{""system"":""van der Waals superconductor / monolayer ferromagnet heterostructure (magnetic moiré)"",""model"":""STM/STS experiments; moiré-engineered proximity-induced superconductivity"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+38,2,"{""system"": ""van der Waals superconductor / monolayer ferromagnet moiré; twisted vdW heterostructure"", ""model"": ""low-temperature STM/STS; experimental moiré engineering (Yu-Shiba-Rusinov minibands, Majorana edge modes)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+38,0,"{""system"": ""van der Waals superconductor / monolayer ferromagnet moiré heterostructure"", ""model"": ""Scanning tunneling microscopy/spectroscopy (STM/STS); moiré potential modeling"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+38,3,"{""system"":""van der Waals superconductor + monolayer ferromagnet moiré heterostructure"",""model"":""Scanning tunneling microscopy/spectroscopy (STM/STS); experimental moiré engineering"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+39,0,"{
+  ""system"": ""Superconducting machines; cryogenic cooling systems (aerospace, naval, wind-energy applications)"",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 0,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 0,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 0,
+  ""spin liquid el correlation"": 0
+}"
+39,1,"{""system"": ""Superconducting machines; cryogenic cooling systems for aerospace, naval, and wind-energy applications"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+38,4,"{""system"":""van der Waals superconductor / monolayer ferromagnet moiré heterostructure"",""model"":""STM/STS experiments; moiré-engineered Yu-Shiba-Rusinov minibands and proximity-induced topological superconductivity"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+39,2,"{""system"":""Superconducting machines; cryogenic cooling systems (engineering application)"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+39,3,"{""system"":""superconducting machines; engineering applications (aerospace, naval, wind energy)"",""model"":""N/A"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+39,4,"{""system"":""Superconducting machines; cryogenic cooling systems (engineering applications: aerospace, naval, wind)"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+40,1,"{""system"":""La3Ni2O7; nickelate"",""model"":""Ultrafast optical pump–probe spectroscopy; Rothwarf–Taylor model (data fitting)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":5.0,""FM fluctuation"":0.0,""charge density wave"":4.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+40,0,"{""system"": ""La3Ni2O7; bilayer nickelate"", ""model"": ""ultrafast optical pump-probe spectroscopy"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 5, ""FM fluctuation"": 0, ""charge density wave"": 5, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+40,3,"{
+  ""system"": ""La3Ni2O7; bilayer nickelate"",
+  ""model"": ""Ultrafast optical pump-probe spectroscopy; Rothwarf-Taylor model"",
+  ""pure el-ph coupling"": 1.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 5.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 4.0,
+  ""nematic fluctuation"": 0.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 0.0,
+  ""spin liquid el correlation"": 0.0
+}"
+40,2,"{""system"":""La3Ni2O7; nickelate"",""model"":""Ultrafast optical pump-probe spectroscopy under high pressure"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":5.0,""FM fluctuation"":0.0,""charge density wave"":4.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+41,0,"{""system"": ""N/A"", ""model"": ""Eliashberg/paramagnon–electron–phonon effective model"", ""pure el-ph coupling"": 3.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 3.0, ""FM fluctuation"": 3.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+40,4,"{""system"": ""La3Ni2O7; bilayer nickelate"", ""model"": ""Ultrafast optical pump-probe spectroscopy; Rothwarf–Taylor model"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 5, ""FM fluctuation"": 0, ""charge density wave"": 5, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+41,2,"{""system"": ""Generic superconductor with spin fluctuations (paramagnons)"", ""model"": ""Eliashberg-type model (electron-phonon + paramagnon)"", ""pure el-ph coupling"": 3.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 3.0, ""FM fluctuation"": 3.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+41,1,"{""system"":""N/A"",""model"":""Eliashberg-like theory (electron-phonon + paramagnon interactions)"",""pure el-ph coupling"":3.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":3.0,""FM fluctuation"":3.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+41,3,"{""system"": ""N/A"", ""model"": ""Eliashberg theory"", ""pure el-ph coupling"": 4.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 3.0, ""FM fluctuation"": 3.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+41,4,"{""system"": ""Generic superconductor with paramagnon (spin) fluctuations"", ""model"": ""Eliashberg/BCS-like theory with paramagnons"", ""pure el-ph coupling"": 3.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 4.0, ""FM fluctuation"": 4.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+42,1,"{""system"":""BaFe2(As1−xPx)2; isovalent-substituted iron pnictide"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":5.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":2.0,""plasmon fluctuation"":0.0,""pure el correlation"":1.0,""spin liquid el correlation"":0.0}"
+42,0,"{""system"": ""BaFe2(As1−xPx)2; iron pnictide"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 5.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+43,0,"{""system"": ""Ni-doped ZnO (Zn1−xNixO) nanoparticles; diluted magnetic semiconductor"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+42,4,"{
+  ""system"": ""BaFe2(As1−xPx)2; Fe-based superconductor"",
+  ""model"": ""N/A"",
+  ""pure el-ph coupling"": 0,
+  ""bipolaron el-ph coupling"": 0,
+  ""AFM fluctuation"": 5,
+  ""FM fluctuation"": 0,
+  ""charge density wave"": 0,
+  ""nematic fluctuation"": 3,
+  ""plasmon fluctuation"": 0,
+  ""pure el correlation"": 2,
+  ""spin liquid el correlation"": 0
+}"
+42,2,"{""system"": ""BaFe2(As1−xPx)2; Fe-based superconductor"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 5, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 2, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+42,3,"{""system"": ""BaFe2(As1−xPx)2; Fe-based superconductor"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 5.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 4.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 2.0, ""spin liquid el correlation"": 0.0}"
+43,1,"{""system"": ""Ni-doped ZnO (Zn1−xNixO) nanoparticles; diluted magnetic semiconductor"", ""model"": ""Experimental study: ultrasonic-assisted sol–gel synthesis; TEM, XRD, Raman, SQUID magnetometry"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+43,3,"{""system"": ""Zn1−xNixO nanoparticles; diluted magnetic semiconductor"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+43,2,"{""system"": ""Ni-doped ZnO (Zn1−xNixO) nanoparticles; diluted magnetic semiconductor"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+43,4,"{""system"":""Ni-doped ZnO nanoparticles (Zn1−xNixO, 0≤x≤0.05); diluted magnetic semiconductor"",""model"":""Ultrasonic-assisted sol–gel synthesis; characterization by X-ray diffraction (XRD), transmission electron microscopy (TEM), Raman spectroscopy, and SQUID magnetometry"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+44,1,"{""system"":""2H-NbSe2; transition-metal dichalcogenide (layered)"", ""model"":""Angle-resolved photoemission spectroscopy (ARPES) experiment"", ""pure el-ph coupling"":0.0, ""bipolaron el-ph coupling"":0.0, ""AFM fluctuation"":0.0, ""FM fluctuation"":0.0, ""charge density wave"":5.0, ""nematic fluctuation"":0.0, ""plasmon fluctuation"":0.0, ""pure el correlation"":0.0, ""spin liquid el correlation"":0.0}"
+44,2,"{""system"": ""2H-NbSe2; transition-metal dichalcogenide"", ""model"": ""Angle-resolved photoemission spectroscopy (ARPES)"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 5.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+44,0,"{""system"":""2H-NbSe2; transition metal dichalcogenide"",""model"":""Angle-resolved photoemission spectroscopy (ARPES)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":5.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+45,1,"{""system"":""N/A"",""model"":""Perturbative QCD (order-αs) analytic + Monte Carlo integration"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+45,0,"{""system"": ""pp collisions; W+W- production"", ""model"": ""perturbative QCD (order-αs) with analytic + Monte Carlo integration"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+44,3,"{""system"": ""2H-NbSe2; transition metal dichalcogenide"", ""model"": ""Angle-resolved photoemission spectroscopy (ARPES)"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 5, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+44,4,"{""system"":""2H-NbSe2; transition-metal dichalcogenide"",""model"":""Angle-resolved photoemission spectroscopy (ARPES)"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":1,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+45,2,"{""system"":""pp/ppbar collisions; W+W- production at hadron colliders (Tevatron, LHC, SSC)"",""model"":""Perturbative QCD (order-αs) calculation; analytic + Monte Carlo integration"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+45,4,"{""system"":""pp/p\bar{p} → W+W- + X at high-energy hadron colliders (Tevatron, LHC, SSC)"",""model"":""Perturbative QCD (order-αs); analytic and Monte Carlo integration"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+45,3,"{""system"": ""pp / pp̄ collisions; W−W+ production (high-energy particle collisions)"", ""model"": ""Perturbative QCD (order-αs) calculation; analytic and Monte Carlo integration"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+46,0,"{""system"": ""MgB2; magnesium diboride (binary diboride superconductor)"", ""model"": ""N/A"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+46,3,"{""system"":""MgB2; binary diboride superconductor"",""model"":""N/A"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+46,1,"{""system"": ""MgB2; binary diboride superconductor"", ""model"": ""N/A"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+46,2,"{""system"": ""MgB2; magnesium diboride"", ""model"": ""N/A"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+46,4,"{""system"": ""MgB2; magnesium diboride (binary diboride)"", ""model"": ""BCS/Eliashberg, multiband (two-gap) electron-phonon framework"", ""pure el-ph coupling"": 5.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+47,1,"{""system"": ""superconductors (general)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+47,0,"{""system"": ""superconductors (general)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+47,2,"{""system"": ""superconductors (general review)"", ""model"": ""N/A"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+47,3,"{""system"": ""Superconductors (general)"", ""model"": ""Review; nonlinear and time-resolved terahertz spectroscopy"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+47,4,"{""system"":""Superconductors (general)"",""model"":""Nonlinear time-resolved terahertz spectroscopy; theoretical analyses of collective modes"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":0.0,""spin liquid el correlation"":0.0}"
+48,2,"{""system"":""Restacked monolayer TaS2 nanosheets; TaS2 (transition metal dichalcogenide)"",""model"":""Density functional theory"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+48,1,"{""system"": ""Restacked monolayer TaS2 nanosheets; TaS2 (transition metal dichalcogenide)"", ""model"": ""Density functional theory"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 0, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 0, ""plasmon fluctuation"": 0, ""pure el correlation"": 0, ""spin liquid el correlation"": 0}"
+48,0,"{""system"":""Restacked monolayer TaS2 nanosheets; transition-metal dichalcogenide interfaces"",""model"":""Density functional theory"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":0.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":0.0,""plasmon fluctuation"":0.0,""pure el correlation"":2.0,""spin liquid el correlation"":0.0}"
+48,3,"{""system"": ""restacked TaS2 nanosheets; TaS2 (transition metal dichalcogenide)"", ""model"": ""Density functional theory"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 0.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 0.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 0.0, ""spin liquid el correlation"": 0.0}"
+48,4,"{""system"":""Restacked monolayer TaS2 nanosheets; TaS2"",""model"":""Density functional theory"",""pure el-ph coupling"":0,""bipolaron el-ph coupling"":0,""AFM fluctuation"":0,""FM fluctuation"":0,""charge density wave"":0,""nematic fluctuation"":0,""plasmon fluctuation"":0,""pure el correlation"":0,""spin liquid el correlation"":0}"
+49,0,"{
+  ""system"": ""Iron-based superconductors; iron pnictides and chalcogenides"",
+  ""model"": ""Multi-orbital Hubbard-Hund models; orbital- and band-basis minimal models; renormalization-group analyses"",
+  ""pure el-ph coupling"": 0.0,
+  ""bipolaron el-ph coupling"": 0.0,
+  ""AFM fluctuation"": 5.0,
+  ""FM fluctuation"": 0.0,
+  ""charge density wave"": 0.0,
+  ""nematic fluctuation"": 5.0,
+  ""plasmon fluctuation"": 0.0,
+  ""pure el correlation"": 3.0,
+  ""spin liquid el correlation"": 0.0
+}"
+49,2,"{""system"":""Fe-based superconductors; iron pnictides and chalcogenides"",""model"":""Multi-orbital Hubbard-Hund models; orbital- and band-basis minimal models; renormalization-group analysis (including spin-orbit and glide-plane considerations)"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":5.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":5.0,""plasmon fluctuation"":0.0,""pure el correlation"":4.0,""spin liquid el correlation"":0.0}"
+49,1,"{""system"": ""Iron-based superconductors (Fe pnictides and chalcogenides)"", ""model"": ""Multi-orbital Hubbard–Hund (10-orbital) lattice; band-basis minimal models; renormalization-group analyses; mean-field studies"", ""pure el-ph coupling"": 0, ""bipolaron el-ph coupling"": 0, ""AFM fluctuation"": 5, ""FM fluctuation"": 0, ""charge density wave"": 0, ""nematic fluctuation"": 5, ""plasmon fluctuation"": 0, ""pure el correlation"": 3, ""spin liquid el correlation"": 0}"
+49,3,"{""system"":""Iron-based superconductors; pnictides and chalcogenides"",""model"":""Multi-orbital Hubbard–Hund models; minimal orbital- and band-basis models; renormalization-group analyses"",""pure el-ph coupling"":0.0,""bipolaron el-ph coupling"":0.0,""AFM fluctuation"":5.0,""FM fluctuation"":0.0,""charge density wave"":0.0,""nematic fluctuation"":5.0,""plasmon fluctuation"":0.0,""pure el correlation"":3.0,""spin liquid el correlation"":0.0}"
+49,4,"{""system"": ""Iron-based superconductors; pnictides and chalcogenides"", ""model"": ""Multi-orbital Hubbard–Hund models; minimal orbital- and band-basis models; renormalization-group studies"", ""pure el-ph coupling"": 0.0, ""bipolaron el-ph coupling"": 0.0, ""AFM fluctuation"": 5.0, ""FM fluctuation"": 0.0, ""charge density wave"": 0.0, ""nematic fluctuation"": 5.0, ""plasmon fluctuation"": 0.0, ""pure el correlation"": 3.0, ""spin liquid el correlation"": 0.0}"
