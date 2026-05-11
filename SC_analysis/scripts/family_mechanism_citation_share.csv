@@ -1,0 +1,45 @@
+family,top_mechanism,citation_total,citation_share_pct
+cuprate,AFM fluctuation,11435.0,37.74425666754687
+cuprate,pure el correlation,6107.0,20.157776604172167
+cuprate,charge density wave,5326.0,17.579878531819382
+cuprate,pure el-ph coupling,3057.0,10.090440982307895
+cuprate,spin liquid el correlation,2657.0,8.770134671243728
+cuprate,nematic fluctuation,823.0,2.7165302350145235
+cuprate,bipolaron el-ph coupling,450.0,1.4853445999471877
+cuprate,FM fluctuation,270.0,0.8912067599683127
+cuprate,plasmon fluctuation,171.0,0.5644309479799313
+elemental,pure el-ph coupling,979.0,79.72312703583061
+elemental,AFM fluctuation,180.0,14.657980456026058
+elemental,FM fluctuation,44.0,3.583061889250814
+elemental,pure el correlation,14.0,1.1400651465798046
+elemental,plasmon fluctuation,11.0,0.8957654723127035
+heavy-fermion,AFM fluctuation,4422.0,55.720766129032256
+heavy-fermion,FM fluctuation,983.0,12.386592741935484
+heavy-fermion,pure el correlation,910.0,11.466733870967742
+heavy-fermion,pure el-ph coupling,820.0,10.33266129032258
+heavy-fermion,charge density wave,347.0,4.372479838709677
+heavy-fermion,nematic fluctuation,334.0,4.20866935483871
+heavy-fermion,spin liquid el correlation,45.0,0.5670362903225806
+heavy-fermion,bipolaron el-ph coupling,42.0,0.5292338709677419
+heavy-fermion,plasmon fluctuation,33.0,0.4158266129032258
+iron-based,AFM fluctuation,9604.0,68.26355817755349
+iron-based,nematic fluctuation,2259.0,16.056578292700262
+iron-based,pure el correlation,1240.0,8.813703887980667
+iron-based,pure el-ph coupling,734.0,5.217144075627266
+iron-based,FM fluctuation,130.0,0.9240173430947474
+iron-based,charge density wave,102.0,0.724998223043571
+kagome,charge density wave,2378.0,68.09851088201604
+kagome,pure el correlation,290.0,8.304696449026347
+kagome,pure el-ph coupling,277.0,7.93241695303551
+kagome,spin liquid el correlation,261.0,7.474226804123711
+kagome,nematic fluctuation,184.0,5.2691867124856815
+kagome,FM fluctuation,84.0,2.4054982817869415
+kagome,AFM fluctuation,18.0,0.5154639175257731
+ruthenate,FM fluctuation,518.0,51.18577075098814
+ruthenate,AFM fluctuation,278.0,27.470355731225297
+ruthenate,pure el correlation,144.0,14.229249011857707
+ruthenate,pure el-ph coupling,34.0,3.3596837944664033
+ruthenate,nematic fluctuation,19.0,1.8774703557312253
+ruthenate,spin liquid el correlation,16.0,1.5810276679841897
+ruthenate,charge density wave,2.0,0.1976284584980237
+ruthenate,plasmon fluctuation,1.0,0.09881422924901186

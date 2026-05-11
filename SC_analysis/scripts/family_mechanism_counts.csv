@@ -1,0 +1,45 @@
+family,top_mechanism,paper_count
+cuprate,AFM fluctuation,569
+cuprate,pure el correlation,368
+cuprate,charge density wave,231
+cuprate,pure el-ph coupling,208
+cuprate,spin liquid el correlation,82
+cuprate,bipolaron el-ph coupling,38
+cuprate,nematic fluctuation,36
+cuprate,FM fluctuation,19
+cuprate,plasmon fluctuation,19
+elemental,pure el-ph coupling,87
+elemental,AFM fluctuation,5
+elemental,FM fluctuation,3
+elemental,pure el correlation,2
+elemental,plasmon fluctuation,1
+heavy-fermion,AFM fluctuation,223
+heavy-fermion,pure el correlation,88
+heavy-fermion,FM fluctuation,55
+heavy-fermion,nematic fluctuation,19
+heavy-fermion,pure el-ph coupling,17
+heavy-fermion,charge density wave,15
+heavy-fermion,bipolaron el-ph coupling,3
+heavy-fermion,spin liquid el correlation,3
+heavy-fermion,plasmon fluctuation,1
+iron-based,AFM fluctuation,437
+iron-based,nematic fluctuation,105
+iron-based,pure el correlation,60
+iron-based,pure el-ph coupling,45
+iron-based,FM fluctuation,8
+iron-based,charge density wave,5
+kagome,charge density wave,98
+kagome,pure el-ph coupling,13
+kagome,pure el correlation,11
+kagome,nematic fluctuation,10
+kagome,spin liquid el correlation,9
+kagome,AFM fluctuation,3
+kagome,FM fluctuation,2
+ruthenate,FM fluctuation,28
+ruthenate,pure el correlation,19
+ruthenate,AFM fluctuation,15
+ruthenate,nematic fluctuation,3
+ruthenate,pure el-ph coupling,3
+ruthenate,charge density wave,1
+ruthenate,plasmon fluctuation,1
+ruthenate,spin liquid el correlation,1

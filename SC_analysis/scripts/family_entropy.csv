@@ -1,0 +1,7 @@
+family,paper_count,entropy_bits,top_mechanism,top_mechanism_share_pct
+cuprate,1570,2.4458192765852313,AFM fluctuation,36.24203821656051
+ruthenate,71,2.157779591173756,FM fluctuation,39.436619718309856
+heavy-fermion,424,2.019627838145027,AFM fluctuation,52.594339622641506
+kagome,146,1.6904785155365054,charge density wave,67.12328767123287
+iron-based,660,1.5249689671662892,AFM fluctuation,66.21212121212122
+elemental,98,0.7075607408964364,pure el-ph coupling,88.77551020408163
