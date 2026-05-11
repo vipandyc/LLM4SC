@@ -1,0 +1,12 @@
+total_papers_in_final: 17937
+papers_with_internal_outgoing: 5446
+papers_without_internal_outgoing: 12491
+unique_sources_in_internal_edges: 5446
+unique_targets_in_internal_edges: 5279
+total_internal_edges: 76086
+kept_binary_labels: ALL
+nonzero_opinion_inside_internal_rows: 5446
+nonzero_opinion_outside_internal_rows: 294
+zero_opinion_inside_internal_rows: 0
+check_note: we keep only internal-edge rows in SC_final_data.csv.
+check_note: nonzero_opinion_outside_internal_rows is computed on the full pre-filter table.
